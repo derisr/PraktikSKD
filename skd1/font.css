@@ -1,0 +1,9 @@
+.font{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+#footer {
+    clear: both;
+    height: 170px;
+    background-color: rgb(226, 232, 245);
+}
